@@ -2,11 +2,11 @@
 
 ![logo](https://github.com/Netgineer0/IntegradorDocumentacion/blob/main/logo.jpg)
 
-* [Articulo](https://www.adobe.com)
+* [Articulo](https://github.com/Netgineer0/IntegradorDocumentacion/blob/main/articulo.pdf)
 
 * [Presentación](https://www.adobe.com)
 
-*[Documentación](https://www.adobe.com)
+* [Documentación](https://www.adobe.com)
 
   
   
